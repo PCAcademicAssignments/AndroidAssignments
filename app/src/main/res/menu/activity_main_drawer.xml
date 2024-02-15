@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/question_1"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_1" />
+        <item
+            android:id="@+id/question_2"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_2" />
+        <item
+            android:id="@+id/question_3"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_3" />
+        <item
+            android:id="@+id/question_4"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_4" />
+        <item
+            android:id="@+id/question_5"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_5" />
+        <item
+            android:id="@+id/question_6"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_6" />
+        <item
+            android:id="@+id/question_7"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_7" />
+        <item
+            android:id="@+id/question_8"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_8" />
+        <item
+            android:id="@+id/question_9"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_9" />
+        <item
+            android:id="@+id/question_10"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_10" />
+        <item
+            android:id="@+id/question_11"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_11" />
+        <item
+            android:id="@+id/question_12"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_12" />
+        <item
+            android:id="@+id/question_13"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_13" />
+        <item
+            android:id="@+id/question_14"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_14" />
+        <item
+            android:id="@+id/question_15"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_15" />
+        <item
+            android:id="@+id/question_16"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_16" />
+        <item
+            android:id="@+id/question_17"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_17" />
+        <item
+            android:id="@+id/question_19"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_19" />
+        <item
+            android:id="@+id/question_20"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_20" />
+
+        <item
+            android:id="@+id/question_21"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_21" />
+        <item
+            android:id="@+id/question_22"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_22" />
+        <item
+            android:id="@+id/question_23"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_23" />
+        <item
+            android:id="@+id/question_24"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_24" />
+        <item
+            android:id="@+id/question_25"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_25" />
+        <item
+            android:id="@+id/question_26"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_26" />
+        <item
+            android:id="@+id/question_27"
+            android:icon="@drawable/question_icon"
+            android:title="@string/question_27" />
+    </group>
+
+</menu>
